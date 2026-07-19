@@ -64,4 +64,4 @@ OSSEC's alerts still require a human to act on them.
 
 ## Author
 
-Hisham Bai (group coursework, FC382 — Defense Mechanisms)
+Hisham (group coursework, FC382 — Defense Mechanisms)
