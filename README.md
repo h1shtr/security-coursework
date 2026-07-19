@@ -13,4 +13,4 @@ Each folder has its own README with full details.
 
 ## Author
 
-Hisham Bai
+Hisham
