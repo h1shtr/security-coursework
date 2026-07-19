@@ -1,7 +1,5 @@
 # Linux Privilege Escalation Lab — Detected via OSSEC
 
-**Course:** FC382 – Defense Mechanisms, University of Prince Mugrin
-**Supervisor:** Dr. Abdulhakim Sabur · **Lab Instructor:** Mr. Mohammed Basuliman
 
 ⚠️ **Educational lab only.** Everything here was built and run in an isolated Kali ↔ Ubuntu 20.04
 VM pair for a university coursework assignment on offense/defense mechanics. It is intentionally
