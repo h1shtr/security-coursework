@@ -64,4 +64,4 @@ validation and parameterized queries were applied.
 
 ## Author
 
-Hisham Bai (group coursework, FC331-332 — Software Security)
+Hisham (group coursework, FC331-332 — Software Security)
