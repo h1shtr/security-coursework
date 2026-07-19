@@ -62,4 +62,4 @@ and the Telegram bot token must be kept secret since it's the only thing gating 
 
 ## Author
 
-Hisham Bai (group coursework, FC254 — Operating System Security)
+Hisham (group coursework, FC254 — Operating System Security)
