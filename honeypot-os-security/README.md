@@ -1,8 +1,5 @@
 # Linux Honeypot with Multi-Tool Intrusion Monitoring
 
-**Course:** FC254 – Operating System Security, University of Prince Mugrin
-**Instructor:** Dr. Syed Sadiq
-
 ## Overview
 
 This project builds a deliberately weakened Ubuntu 22.04 VM (default firewall, AppArmor,
