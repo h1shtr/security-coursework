@@ -1,7 +1,5 @@
 # Alumni Networking App — Secure-by-Design Case Study
 
-**Course:** FC331-332 – Software Security, University of Prince Mugrin
-**Supervisor:** Dr. Syed Kamran
 
 ## Overview
 
