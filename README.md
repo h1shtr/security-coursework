@@ -1,7 +1,7 @@
 # Security Coursework
 
 A collection of labs and design projects from my Forensic Computing & Cyber Security degree
-at the University of Prince Mugrin.
+
 
 | Folder | Course | What it is |
 |---|---|---|
